@@ -5,11 +5,11 @@ Project 1 is about webscaping information about top data Analytics company from 
 
 The aim of this project is to get details about top data analytics company. These details includes, review, rating, year founded, location, etc.
 
-[View Notebook](
+[View Notebook](https://nbviewer.org/github/Jhaniee/Top-data-analysis-company-web-scrape/blob/main/Project%201.ipynb)
 
 ### Summary
 
-![firm locations](newplot(7).png)
+![](newplot(7).png)
 
 * The webpage from Goodfirm was succesfully accessed and downloaded using Request library. 
 * BeautifulSoup was used to locate and extract the details from the downloaded html file
